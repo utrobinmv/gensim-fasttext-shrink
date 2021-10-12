@@ -1,0 +1,1 @@
+# gensim-fasttext-shrink
